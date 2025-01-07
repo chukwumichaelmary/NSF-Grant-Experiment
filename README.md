@@ -1,2 +1,3 @@
 # NSF-Grant-Experiment
 Experimental Investigation of Morphodynamic Coupling between River Deltas and Marshes
+The researchers aim to investigate the interactions between river deltas and marshes through physical laboratory experiments utilizing an innovative marsh proxy. This proxy will be integrated into deltaic experiments based on a rule-based sedimentation model, which accounts for the local elevation of the evolving deposit. For the first time, this approach will enable the documentation of how marshes, which cover extensive areas of many delta plains, enhance the internal dynamics of deltas.
